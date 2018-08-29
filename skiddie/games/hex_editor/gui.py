@@ -1,6 +1,6 @@
 """Code for the game's UI.
 
-Copyright © 2017 Garrett Powell <garrett@gpowell.net>
+Copyright © 2017-2018 Garrett Powell <garrett@gpowell.net>
 
 This file is part of skiddie.
 
